@@ -1,0 +1,2 @@
+# distribute
+public config distribute
