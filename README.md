@@ -1,2 +1,2 @@
-# distribute
+# Distribute
 public config distribute
