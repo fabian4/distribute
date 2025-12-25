@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,objects.githubusercontent.com
