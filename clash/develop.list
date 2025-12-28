@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,codeload.github.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,brew.sh
