@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,microsoft.com
 
 # CI / Build Infrastructure
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,actions.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
