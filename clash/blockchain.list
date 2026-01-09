@@ -1,23 +1,80 @@
+# RPC / Infrastructure Providers
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,quicknode.com
+DOMAIN-SUFFIX,moralis.io
+DOMAIN-SUFFIX,blockdaemon.com
+DOMAIN-SUFFIX,nodereal.io
+
+# Block Explorers
 DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,metamask.io
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,opensea.io
-DOMAIN-SUFFIX,pump.fun
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,sushi.com
-DOMAIN-SUFFIX,thegraph.com
 DOMAIN-SUFFIX,polygonscan.com
-DOMAIN-SUFFIX,ethers.io
-DOMAIN-SUFFIX,chain.link
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,tronscan.org
-DOMAIN-SUFFIX,aave.com
-DOMAIN-SUFFIX,dexscreener.com
-DOMAIN-SUFFIX,paybis.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,optimistic.etherscan.io
+DOMAIN-SUFFIX,snowtrace.io
+DOMAIN-SUFFIX,ftmscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,btcscan.org
+
+# Wallets
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+
+# DEX / DeFi Protocols
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,compound.finance
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# NFT / Marketplace
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,blur.io
+DOMAIN-SUFFIX,looksrare.org
+DOMAIN-SUFFIX,magiceden.io
+
+# Trading / Analytics
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,cryptocompare.com
+
+# Centralized Exchanges
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bitfinex.com
+
+# On-ramp / Off-ramp
+DOMAIN-SUFFIX,paybis.com
+DOMAIN-SUFFIX,moonpay.com
+DOMAIN-SUFFIX,ramp.network
+DOMAIN-SUFFIX,transak.com
+DOMAIN-SUFFIX,banxa.com
+
+# Indexing / Data
+DOMAIN-SUFFIX,thegraph.com
+DOMAIN-SUFFIX,chain.link
+DOMAIN-SUFFIX,glassnode.com
+DOMAIN-SUFFIX,nansen.ai
+
+# Meme / Launch / Misc
+DOMAIN-SUFFIX,pump.fun
+DOMAIN-SUFFIX,ethers.io
+
+# Ethereum / Blockchain P2P & RPC Ports
 DST-PORT,8545
 DST-PORT,8546
 DST-PORT,30303
