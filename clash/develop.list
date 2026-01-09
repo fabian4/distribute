@@ -1,14 +1,78 @@
+# Rust Toolchain & Ecosystem
 DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
-DOMAIN-SUFFIX,api.github.com
-DOMAIN-SUFFIX,codeload.github.com
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,objects.githubusercontent.com
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,static.rust-lang.org
 DOMAIN-SUFFIX,cdn.rust-lang.org
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,static.docs.rs
+DOMAIN-SUFFIX,rust-lang.org
+
+# GitHub Core & APIs
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,release-assets.githubusercontent.com
+
+# Container Registry
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.k8s.io
+
+# Package Managers
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,formulae.brew.sh
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+
+# Kubernetes Core
 DOMAIN-SUFFIX,k8s.io
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,kubernetes.dev
+DOMAIN-SUFFIX,dl.k8s.io
+DOMAIN-SUFFIX,registry.k8s.io
+
+# Kubernetes Ecosystem
+DOMAIN-SUFFIX,kubernetes-csi.github.io
+DOMAIN-SUFFIX,helm.sh
+DOMAIN-SUFFIX,charts.helm.sh
+DOMAIN-SUFFIX,operatorhub.io
+DOMAIN-SUFFIX,etcd.io
+
+# CNCF
+DOMAIN-SUFFIX,cncf.io
+DOMAIN-SUFFIX,landscape.cncf.io
+DOMAIN-SUFFIX,artifacthub.io
+DOMAIN-SUFFIX,projects.cncf.io
+
+# Google Cloud / GCP
+DOMAIN-SUFFIX,cloud.google.com
+DOMAIN-SUFFIX,packages.cloud.google.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,gcr.io
+
+# Linux Distribution (Debian / Ubuntu)
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,deb.debian.org
+DOMAIN-SUFFIX,security.debian.org
+DOMAIN-SUFFIX,archive.debian.org
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,security.ubuntu.com
+DOMAIN-SUFFIX,canonical.com
+
+# Cloud Providers
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,microsoft.com
+
+# CI / Build Infrastructure
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,actions.githubusercontent.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
