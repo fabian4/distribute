@@ -1,8 +1,3 @@
-# Google Analytic
-DOMAIN,analytics.google.com,DIRECT
-DOMAIN-SUFFIX,google-analytics.com,DIRECT
-DOMAIN-SUFFIX,googletagmanager.com,DIRECT
-
 # Rust Toolchain & Ecosystem
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,static.rust-lang.org
