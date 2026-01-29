@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,oh-my.fish
+DOMAIN-SUFFIX,orbstack.dev
+
 # Rust Toolchain & Ecosystem
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,static.rust-lang.org
