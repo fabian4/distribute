@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,longbridge.com
+
 # RPC / Infrastructure Providers
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,alchemyapi.io
