@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,oh-my.fish
 DOMAIN-SUFFIX,orbstack.dev
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 
 # Rust Toolchain & Ecosystem
 DOMAIN-SUFFIX,rustup.rs
