@@ -1,0 +1,51 @@
+# Longbridge
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.cn
+DOMAIN-SUFFIX,longbridge.xyz
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,lbkrs.com
+
+# Hong Kong Exchanges
+DOMAIN-SUFFIX,hkex.com.hk
+DOMAIN-SUFFIX,hkexgroup.com
+DOMAIN-SUFFIX,hkexnews.hk
+
+# United States Exchanges and Market Infrastructure
+DOMAIN-SUFFIX,nyse.com
+DOMAIN-SUFFIX,nysegroup.com
+DOMAIN-SUFFIX,nasdaq.com
+DOMAIN-SUFFIX,nasdaqtrader.com
+DOMAIN-SUFFIX,cboe.com
+DOMAIN-SUFFIX,cmegroup.com
+DOMAIN-SUFFIX,otcmarkets.com
+
+# Asia-Pacific Exchanges
+DOMAIN-SUFFIX,sgx.com
+DOMAIN-SUFFIX,jpx.co.jp
+DOMAIN-SUFFIX,asx.com.au
+DOMAIN-SUFFIX,nzx.com
+
+# European and Canadian Exchanges
+DOMAIN-SUFFIX,londonstockexchange.com
+DOMAIN-SUFFIX,lseg.com
+DOMAIN-SUFFIX,euronext.com
+DOMAIN-SUFFIX,deutsche-boerse.com
+DOMAIN-SUFFIX,xetra.com
+DOMAIN-SUFFIX,tmx.com
+
+# Cross-border Brokers
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.com.sg
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,tigerbrokers.com.sg
+DOMAIN-SUFFIX,webull.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,etrade.com
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,robinhood.com
