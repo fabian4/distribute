@@ -84,3 +84,6 @@ DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,actions.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
+
+# Photon / Spectrum iMessage
+DOMAIN-SUFFIX,photon.codes
